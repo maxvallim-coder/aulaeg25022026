@@ -13,3 +13,5 @@ O usuário pode alterar nome, foto e dados pessoais.
 O sistema deve permitir que novos usuários sejam criados.
 
 ### RF05
+
+### RF06
